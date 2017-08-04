@@ -19,11 +19,12 @@
 
 body {
   background-color: #2F4F4F;
+  background-image: url(../img/bg1.jpg);
 }
 
 .panel-info {
   border-color: black;
-  background-color: #A9A9A9	;
+  background-color: #708090;
 }
 
 .img-circle {
