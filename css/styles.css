@@ -3,8 +3,9 @@
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-image: url(../img/blch.jpeg);
+  background-image: url(../img/bgr.jpeg);
 }
+
 
 #name {
   color: #00CED1;
@@ -22,7 +23,7 @@ body {
 
 .panel-info {
   border-color: black;
-  background-color: #C0C0C0;
+  background-color: #A9A9A9	;
 }
 
 .img-circle {
