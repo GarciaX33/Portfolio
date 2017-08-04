@@ -1,0 +1,42 @@
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-image: url(../img/blch.jpeg);
+}
+
+#name {
+  color: #00CED1;
+  text-shadow: 2px 2px black;
+}
+
+#bname {
+  color: white;
+  text-shadow: 2px 2px black;
+}
+
+body {
+  background-color: #2F4F4F;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 100px;
+  height: auto;
+}
+
+img.hgs {
+  width: 350px;
+  height: auto;
+}
+
+img.fir {
+  width: 350px;
+  height: auto;
+}
+
+img.ptb {
+  width: 375px;
+  height: auto;
+}
