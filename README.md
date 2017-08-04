@@ -1,27 +1,27 @@
-Daniel J. Garcia Portfolio Landing Page
+# Daniel J. Garcia Portfolio Landing Page
 
-This is a simple Portfolio Landing Page, 8.4.2017
+#### This is a simple Portfolio Landing Page, 8.4.2017
 
-By Daniel J. Garcia
+#### By Daniel J. Garcia
 
-Description
+## Description
 
 This simple Portfolio Landing page consists of HTML, CSS and Bootstrap. It contains various images that help represent the current portfolio.
 
-Setup/Installation Requirements
+## Setup/Installation Requirements
 
 1. Clone the Repo
 2. Open the Index HTML file
 
-Known Bugs
+## Known Bugs
 
 There are no known bugs.
 
-Support and contact details
+## Support and contact details
 
 GitHub Profile
 
-Technologies Used
+## Technologies Used
 
 1. HTML
 2. CSS
@@ -29,7 +29,7 @@ Technologies Used
 4. Atom
 5. Chrome
 
-License
+### License
 
 
 Copyright (c) 2016 , Daniel J. Garcia
