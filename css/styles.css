@@ -20,6 +20,11 @@ body {
   background-color: #2F4F4F;
 }
 
+.panel-info {
+  border-color: black;
+  background-color: #C0C0C0;
+}
+
 .img-circle {
   border-radius: 50%;
   width: 100px;
@@ -29,14 +34,25 @@ body {
 img.hgs {
   width: 350px;
   height: auto;
+  float: left;
+  padding: 15px;
 }
 
 img.fir {
   width: 350px;
   height: auto;
+  float: left;
+  padding: 18px;
 }
 
 img.ptb {
   width: 375px;
   height: auto;
+  float: left;
+  padding: 18px;
+}
+
+.edex {
+  text-align: center;
+  list-style-type: none;
 }
