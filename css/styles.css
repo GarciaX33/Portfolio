@@ -70,3 +70,15 @@ img.ptb {
 .bs1 {
   color: purple;
 }
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: blue;
+}
