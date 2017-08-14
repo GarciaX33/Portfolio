@@ -8,6 +8,8 @@
 
 This simple Portfolio Landing page consists of HTML, CSS and Bootstrap. It contains various images that help represent the current portfolio.
 
+GitHub Pages : https://garciax33.github.io/Portfolio/
+
 ## Setup/Installation Requirements
 
 1. Clone the Repo
